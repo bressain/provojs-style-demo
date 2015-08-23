@@ -1,13 +1,9 @@
 @import "../layout/base.css";
 
-:root {
-  --avatarSize: 190px;
-}
-
 .container {
   position: absolute;
   width: var(--pageWidth);
-  top: 205px;
+  top: calc(var(--coverHeight) - (var(--avatarSize)/2));
 }
 .container img {
   position: absolute;

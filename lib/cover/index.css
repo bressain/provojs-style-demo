@@ -1,6 +1,8 @@
+@import "../layout/base.css";
+
 .container {
   position: relative;
-  min-height: 300px;
+  min-height: var(--coverHeight);
   overflow: hidden;
 }
 .container img {
