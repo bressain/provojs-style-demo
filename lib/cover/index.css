@@ -1,0 +1,10 @@
+.container {
+  position: relative;
+  min-height: 300px;
+  overflow: hidden;
+}
+.container img {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
