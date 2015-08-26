@@ -1,11 +1,11 @@
-@import "../layout/base.css";
+@import "../base.css";
 
 .container {
   position: relative;
   min-height: var(--coverHeight);
   overflow: hidden;
 }
-.container img {
+.img {
   position: absolute;
   top: 0;
   width: 100%;
