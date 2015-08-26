@@ -1,11 +1,3 @@
-# Front Starter
+# Style demo for (ProvoJS)[http://www.meetup.com/ProvoJS/]
 
-Jumping off point for a front-end app
-
-## Using:
-
-* Babel
-* Webpack
-* React
-* PostCSS/CSSNext/Autoprefixer
-* Mocha/Chai
+Started from my (front starter)[https://github.com/dinkelburt/front-starter] template.

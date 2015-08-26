@@ -22,7 +22,7 @@ export default {
   plugins: [
     new HtmlWebpackPlugin({
       template: 'node_modules/html-webpack-template/index.html',
-      title: 'React Starter',
+      title: 'Bressain Dinkelman Style Demo',
       appMountId: 'app',
       devServer: 'http://localhost:3000'
     }),
