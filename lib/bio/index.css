@@ -6,16 +6,3 @@
   margin-left: auto;
   margin-right: auto;
 }
-.container a {
-  text-decoration: none;
-  font-weight: bold;
-}
-.container a:link {
-  color: color(#929292 blackness(70%));
-}
-.container a:visited {
-  color: color(#929292 blackness(50%));
-}
-.container a:hover {
-  text-decoration: underline;
-}
